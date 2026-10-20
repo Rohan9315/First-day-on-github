@@ -1,3 +1,3 @@
-# First-day-on-github
+# GIT DEMO
 My first repository
 Name-Rohan
